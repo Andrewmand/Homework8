@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Miso Regular';
+    src: url('../assets/fonts/Miso.eot');
+    src: url('../assets/fonts/Miso.eot?#iefix') format('embedded-opentype'),
+    url('../assets/fonts/Miso.woff') format('woff'),
+    url('../assets/fonts/Miso.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+@font-face {
+        font-family: 'Lato Light';
+        src: url('../assets/fonts/Lato-Light.eot');
+        src: url('../assets/fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Lato-Light.woff') format('woff'),
+        url('../assets/fonts/Lato-Light.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+@font-face {
+            font-family: 'miso-bold';
+            src: url('../assets/fonts/miso-bold.eot');
+            src: url('../assets/fonts/miso-bold.eot?#iefix') format('embedded-opentype'),
+            url('../assets/fonts/miso-bold.woff') format('woff'),
+            url('../assets/fonts/miso-bold.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
